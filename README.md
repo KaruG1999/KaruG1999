@@ -1,4 +1,4 @@
-#  <img src="https://i.giphy.com/x1CjxowaWEV1YXV47t.webp" width="100"/> Bienvenid@ a mi GitHub
+#  <img src="https://i.giphy.com/x1CjxowaWEV1YXV47t.webp" width="100"/> Bienvenid@ a mi GitHub 🌠​
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karen-giannetto)
@@ -7,7 +7,7 @@
 
 👋 ¡Hola! Soy Karen, estudiante de informática y futura desarrolladora. Acá subo proyectos de la facu y otros en los que estoy trabajando por mi cuenta. 🚀✨
 
-## Skills
+## Skills 👩‍💻​
 ### Core
 <p align="left">
  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
