@@ -19,3 +19,4 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" /></a>
                     </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karug1999&layout=compact&theme=tokyonight)
