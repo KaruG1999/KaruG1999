@@ -12,11 +12,19 @@
 <p align="left">
  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
 
- ### Code editors
+ ### Code Editors
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="30" height="30" alt="VS Code" /></a>
 
- ### Software
+### Version Control
+
+ <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>
+
+ ### Desing
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" /></a>
                     </p>
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karug1999&layout=compact&theme=tokyonight)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=karug1999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
