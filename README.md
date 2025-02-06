@@ -1,12 +1,28 @@
-# <p align="center">🌠  Bienvenid@ a mi GitHub  🌠</p>
+<h1 align="center">🚀✨ ¡Bienvenid@ a mi GitHub! ✨🚀</h1>
 
-<img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="100%" />
+<p align="center">
+  <img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="100%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karen-giannetto)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iiyffwy2fpe2gvxus76uzufcx?si=yZYHNeggTgOGASLrnQJdeQ)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@karengiannetto)
+<h2 align="center">👋 ¡Hola! Soy <b>Karen</b>, estudiante de informática y futura desarrolladora. 💻</h2>
 
-👋 ¡Hola! Soy Karen, estudiante de informática y futura desarrolladora. Acá subo proyectos de la facu y otros en los que estoy trabajando por mi cuenta. 🚀✨
+<p align="center">
+  Acá subo <b>proyectos de la facu</b> y otros en los que estoy trabajando por mi cuenta.   
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karen-giannetto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://open.spotify.com/user/iiyffwy2fpe2gvxus76uzufcx?si=yZYHNeggTgOGASLrnQJdeQ" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://discord.com/channels/@karengiannetto" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 ## Skills 👩‍💻​
 ### Core
@@ -27,9 +43,13 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" /></a>
 
  </p>
-  
+
 ## Stats 📈​
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karug1999&layout=compact&theme=tokyonight)
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=karug1999&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karug1999&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=karug1999&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+</div>
