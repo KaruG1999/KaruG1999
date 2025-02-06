@@ -1,8 +1,6 @@
-#  <img src="https://i.giphy.com/x1CjxowaWEV1YXV47t.webp" width="100"/> Bienvenid@ a mi GitHub 🌠​
+# <p align="center">🌠  Bienvenid@ a mi GitHub  🌠</p>
 
-
-![Portada](https://i.pinimg.com/originals/6f/6b/1b/6f6b1b5ab1928c1b4f21b18c4d3e019c.jpg)
-
+<img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karen-giannetto)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iiyffwy2fpe2gvxus76uzufcx?si=yZYHNeggTgOGASLrnQJdeQ)
