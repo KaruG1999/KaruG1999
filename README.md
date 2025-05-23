@@ -2,7 +2,7 @@
 <h1 align="center">✨ ¡Bienvenid@! ✨</h1>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="100%" />
+  <img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="60%" />
 </p>
 
 <h2 align="center">👋 ¡Hola! Soy <b>Karen</b>, estudiante de informática y futura desarrolladora. 💻</h2>
