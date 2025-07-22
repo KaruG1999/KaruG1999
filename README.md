@@ -1,11 +1,9 @@
 
-<h1 align="center">✨ ¡Bienvenid@! ✨</h1>
-
 <p align="center">
   <img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="60%" />
 </p>
 
-<h2 align="center">👋 ¡Hola! Soy <b>Karen</b>, estudiante de informática y futura desarrolladora. 💻</h2>
+<h2 align="center">👋🏻 ¡Hola! Soy <b>Karen</b>, estudiante de informática y desarrolladora junior 🌠​ </h2>
 
 <p align="center">
   En este espacio comparto <b>proyectos académicos</b> y <b>desarrollos personales</b> que reflejan mi crecimiento como programadora.  
@@ -27,7 +25,7 @@
 
 
 
-## Skills 👩‍💻​
+## Skills 👩🏻‍💻​
 
 ### Lenguajes de Programación
 <p align="left">
@@ -63,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karug1999&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=karug1999&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </div>
 
