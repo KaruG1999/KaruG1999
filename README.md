@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://64.media.tumblr.com/d928bb477931eda6e575737c20e4040b/5e9cd4a37d78e6c3-51/s640x960/9a27a3e258bd53c5a4cc1cf23faa6f4825424a3e.gif" width="60%" />
 </p>
@@ -47,18 +46,34 @@ Complementando mi formación universitaria con un enfoque más práctico y orien
 
 📂 [Ver proyectos del curso →](https://github.com/KaruG1999/FullStack_UTN-GS)
 
-### 🚀 Grupo de Estudio - Proyecto Web Instituto
-Participando en un proyecto real para crear la página web de un instituto secundario como práctica grupal:
+### ⛓️ Curso de Desarrollo Blockchain - Código Futura
+Explorando el fascinante mundo de Web3 y desarrollo descentralizado en el ecosistema Stellar:
 
-**Tecnologías que estamos usando:**
-- **Frontend:** React, TypeScript, Next.js, Tailwind CSS
-- **Diseño:** Figma para prototipado
-- **Testing:** Técnicas de testing automatizado
-- **Deploy:** Vercel
+**Sobre el Curso:**
+Programa intensivo impartido por las increíbles profesoras de **Buen Día Builders**:
+- 🌟 **Tatiana Borda** - Instructora y Developer Advocate
+- 🌟 **Elisa Araya** - Instructora y Blockchain Developer
 
-**Estado actual:** Trabajando en los fundamentos de React y documentación del proyecto
+En colaboración con **BAF Network** (Blockchain Acceleration Foundation) y el programa Stellar Community Fund.
 
-📂 [Ver progreso del proyecto →](https://github.com/KaruG1999/codeHer_Lab)
+**Tecnologías y Herramientas:**
+- **Desarrollo:** Visual Studio Code, Node.js, Rust
+- **Blockchain:** Stellar SDK, Stellar CLI, Soroban (Smart Contracts)
+- **Framework:** Stellar Scaffold
+- **Frontend:** React para integración con blockchain
+- **Plataforma:** Stellar Network
+
+**Temario del Curso:**
+- ✅ Fundamentos de Stellar
+- ✅ Introducción a Rust
+- 🔄 Smart Contracts con Soroban
+- 🔄 Integración Frontend + Blockchain
+- 📍 Arquitectura Completa de dApps
+- 📍 Proyecto Final (Hackathon)
+
+📂 [Ver mi progreso y proyectos →](https://github.com/KaruG1999/CodigoFutura)
+
+🌐 **Material oficial:** [buendiabuilders.com](https://buendiabuilders.com) | [Repositorio oficial](https://github.com/BuenDia-Builders/codigofutura)
 
 ---
 
@@ -68,16 +83,18 @@ Participando en un proyecto real para crear la página web de un instituto secun
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" height="30" alt="Java" title="Java" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="JavaScript" title="JavaScript" />
+ <!--  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="30" height="30" alt="Rust" title="Rust" /> -->
  <!--  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="30" height="30" alt="TypeScript" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" title="C#" /> -->
   <img src="https://cdn.worldvectorlogo.com/logos/pascal.svg" width="30" height="30" alt="Pascal" title="Pascal" />
 </p>
 
-### Tecnologías Web
+### Tecnologías Web & Blockchain
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" alt="HTML" title="HTML" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" alt="CSS" title="CSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" title="React" />
+ <!--  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" title="React" /> -->
+  <img src="https://avatars.githubusercontent.com/u/48368231?s=200&v=4" width="30" height="30" alt="Stellar" title="Stellar" />
  <!--  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="30" height="30" alt="Angular" title="Angular" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="30" height="30" alt="Next.js" title="Next.js" /> -->
 </p>
