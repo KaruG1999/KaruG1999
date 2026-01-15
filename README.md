@@ -61,6 +61,24 @@
 ## 📊 GitHub Stats
 
 <p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaruG1999&theme=tokyonight"
+    alt="Top Languages (by commits)"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaruG1999&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaruG1999&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
