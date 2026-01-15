@@ -61,9 +61,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karug1999&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaruG1999&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karug1999&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaruG1999&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
 </p>
