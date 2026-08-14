@@ -1,24 +1,11 @@
 <div align="center">
 
-<h1>Karen Giannetto</h1>
-
 <p>
-  Systems Student &nbsp;·&nbsp; Web Developer &nbsp;·&nbsp; Web3 Explorer
+  <strong>Systems Student &nbsp;·&nbsp; Web Developer &nbsp;·&nbsp; Web3 Builder</strong>
 </p>
 
 <p>
-Building clear, functional software.<br/>
-Focused on web development and exploring blockchain & Web3.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/karen-giannetto">
-    <img src="https://img.shields.io/badge/LinkedIn-1B2A4A?style=flat-square&logo=linkedin&logoColor=6EA8D6"/>
-  </a>
-  &nbsp;
-  <a href="mailto:karengiannetto99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1B2A4A?style=flat-square&logo=gmail&logoColor=6EA8D6"/>
-  </a>
+  Building functional software with a focus on web applications and blockchain protocols.
 </p>
 
 </div>
@@ -56,8 +43,4 @@ Focused on web development and exploring blockchain & Web3.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaruG1999&theme=nord_dark" alt="Top Languages" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaruG1999&theme=nord_dark" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaruG1999&theme=nord_dark" alt="Activity" />
 </p>
